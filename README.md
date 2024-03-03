@@ -23,7 +23,7 @@ Resources =>
 - https://youtu.be/ay-atEUGIc4?si=YBq4zZsnrZ72LIAg [middleware]
 
 <br>
-Project Overview => Full-stack blog app project using app router, server actions, MongoDB, Auth.js(with role).
+Project Overview => Full-stack blog app (with admin page) project using app router, server actions, MongoDB, Auth.js(with role).
 
 Completed Date => 03.03.2024
 <br>
