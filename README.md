@@ -12,7 +12,7 @@ Upload Date => 26.02.2024
 
 <br>
 
-## Nextjs14 Starter
+## Next14 Starter
 
 Resources =>
 
